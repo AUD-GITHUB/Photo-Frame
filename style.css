@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(lightblue 0%, lightgreen 100%);
+}
+
+.heading {
+    font-size: 40px;
+}
